@@ -1,0 +1,5 @@
+darknet*
+dataset/
+dataset.zip
+*.zip
+compliedDarkentFromCollabZip.zip
